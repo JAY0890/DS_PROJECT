@@ -1,4 +1,4 @@
-# 📰 Fake News Detection
+#  Fake News Detection
 
 **Project Type**: Exploratory Data Analysis (EDA)  
 **Contribution**: Individual  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 In an age where misinformation spreads rapidly online, detecting fake news has become increasingly important.  
 This project aims to explore and analyze news article data to understand patterns and differences between **fake** and **real** news.
@@ -15,7 +15,7 @@ The project focuses on using **basic features** such as title length, text lengt
 
 ---
 
-## 📊 About the Dataset
+##  About the Dataset
 
 The dataset contains **2,083 news articles**, each with metadata and labels indicating whether the news is real or fake.
 
@@ -37,7 +37,7 @@ The dataset contains **2,083 news articles**, each with metadata and labels indi
 
 ---
 
-## ❓ Problem Statements
+##  Problem Statements
 
 1. Detect fake news from articles using basic features such as article text, category (`type`), language, and the presence of images.  
 2. Analyze patterns in news characteristics, including title length, text length, article type, language, and whether an image is included, to understand differences between real and fake news.  
